@@ -1,5 +1,6 @@
 # Liquefaction-Resistance
 Repository for  liquefaction assessment
+!Not Validated yet!
 
 # Methods implemented
 ## CPT Criteria
